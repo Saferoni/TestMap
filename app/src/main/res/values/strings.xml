@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestMap</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="button_direction">Проложить маршрут</string>
+    <string name="profile_location_snackbar_permission">Определить ваше положение?</string>
+    <string name="not_start_position">You don\'t have start position</string>
+    <string name="you_address">Check your address</string>
+</resources>
